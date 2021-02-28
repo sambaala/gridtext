@@ -17,7 +17,7 @@ URL: https://wilkelab.org/gridtext/
 BugReports: https://github.com/wilkelab/gridtext/issues
 License: MIT + file LICENSE
 Depends:
-    R (>= 3.5)
+    R (>= 3.4)
 Imports:
     grid,
     grDevices,
